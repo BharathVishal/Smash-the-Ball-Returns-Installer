@@ -6,22 +6,22 @@
 A small arcade windows game developed by me during 12th grade.
 
 
-1. INSTALLING THE GAME
-2. RUNNING THE GAME
-3. HARDWARE REQUIREMENTS
-4. KNOWN ISSUES
+1. Installing the game
+2. Running the game
+3. Hardware requirements
+4. Known issues
 
 
-#### I.INSTALLING THE GAME:
+#### I.Installing the game:
 Run the “Smash the ball-Returns” setup.exe and click next to proceed to the installation. Follow the steps shown in the installer to install the game.
 
 
-#### II.RUNNING AND PLAYING THE GAME:
+#### II.Running the game:
 Just click the Smash the ball-returns application and wait for the game to load. The objective of the game is to catch all the glowing green, blue and golden orbs. Once the orbs are captured proceed to the key to move onto the next sublevel. Repeat the same process to clear this level. You can save your progress by pressing button 's' on the keyboard. To load a game, press enter on the load game button. Press F1 for help esc to exit to windows, F4 for toggling the screen. There are four levels in this game. 
 
 
 
-#### III.HARDWARE REQUIREMENTS:
+#### III.Hardware Requirements:
 
 ##### (i) Minimum Requirements:
     Windows XP/VISTA/7
