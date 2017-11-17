@@ -50,14 +50,17 @@ Just click the Smash the ball-returns application and wait for the game to load.
 
 ##### Launch Date : 
 June 1st 2011
-
+ --
+ 
 
 ##### Platform :
 Windows XP/VISTA/7. Also works on Windows 8.1 and 10.
-
+ --
+ 
 
 ##### Developer :
 Bharath Vishal G.
-
+ --
+ 
 
 © 2011-2017. Vishtek Studios-name, “Smash the ball”, "Smash the ball: Returns" are owned by Vishtek Studios LLP. All Rights Reserved. No part of the game may be reproduced in any manner.
