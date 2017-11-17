@@ -12,12 +12,15 @@ A small arcade windows game developed by me during 12th grade.
 4. Known issues
 
 
+
 #### I.Installing the game:
 Run the “Smash the ball-Returns” setup.exe and click next to proceed to the installation. Follow the steps shown in the installer to install the game.
 
 
+
 #### II.Running the game:
 Just click the Smash the ball-returns application and wait for the game to load. The objective of the game is to catch all the glowing green, blue and golden orbs. Once the orbs are captured proceed to the key to move onto the next sublevel. Repeat the same process to clear this level. You can save your progress by pressing button 's' on the keyboard. To load a game, press enter on the load game button. Press F1 for help esc to exit to windows, F4 for toggling the screen. There are four levels in this game. 
+
 
 
 
@@ -44,11 +47,14 @@ Just click the Smash the ball-returns application and wait for the game to load.
 
 
 
+
 ##### Launch Date : 
 June 1st 2011
 
+
 ##### Platform :
 Windows XP/VISTA/7. Also works on Windows 8.1 and 10.
+
 
 ##### Developer :
 Bharath Vishal G.
