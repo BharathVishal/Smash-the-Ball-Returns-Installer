@@ -60,4 +60,4 @@ Windows XP/VISTA/7. Also works on Windows 8.1 and 10.
 Bharath Vishal G.
  
 
-© 2011-2017. Vishtek Studios-name, “Smash the ball”, "Smash the ball: Returns" are owned by Vishtek Studios LLP. All Rights Reserved. No part of the game may be reproduced in any manner.
+© 2011-2017. "Vishtek Studios logo", “Smash the ball”, "Smash the ball: Returns" are owned by Vishtek Studios LLP. All Rights Reserved. No part of the game may be reproduced in any manner.
