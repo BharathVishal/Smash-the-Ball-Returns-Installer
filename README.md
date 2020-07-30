@@ -1,4 +1,4 @@
-# Smash-the-Ball--Returns-Installer
+# Smash-the-Ball-Returns- Executable file
 
 ### Smash the Ball-Returns               |                   Readme                        |              1st June 2011
 
@@ -58,6 +58,8 @@ Windows XP/VISTA/7. Also works on Windows 8.1 and 10.
 
 ##### Developer :
 Bharath Vishal G.
- 
+
+
+ Please note that only the game's executable is provided in this repository. 
 
 © 2011-2020. "Vishtek Studios logo", “Smash the ball”, "Smash the ball: Returns" are owned by Vishtek Studios LLP. All Rights Reserved. No part of the game may be reproduced in any manner.
