@@ -1,4 +1,4 @@
-# Smash-the-Ball--Returns-Installer
+# Smash-the-Ball-Returns- Executable file
 
 ### Smash the Ball-Returns               |                   Readme                        |              1st June 2011
 
