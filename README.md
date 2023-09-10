@@ -62,4 +62,4 @@ Bharath Vishal G.
 
  Please note that only the game's executable is provided in this repository. 
 
-© 2011-2020. "Vishtek Studios logo", “Smash the ball”, "Smash the ball: Returns" are owned by Vishtek Studios LLP. All Rights Reserved. No part of the game may be reproduced in any manner.
+© 2011-2023. "Vishtek Studios logo", “Smash the ball”, "Smash the ball: Returns" are owned by Vishtek Studios LLP. All Rights Reserved. No part of the game may be reproduced in any manner.
